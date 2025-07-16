@@ -67,3 +67,5 @@ Cross-Platform Testing: Output file paths behaved differently on Linux vs. Windo
 Conclusion:
 
 This task helped me strengthen my understanding of file operations in C — a fundamental skill for any systems programmer. I gained hands-on experience in reading/writing real-world data, debugging logical errors, and making my program more user-interactive. Thanks to the support from ChatGPT, YouTube tutorials, and Grok AI, I was able to complete the task effectively and confidently.
+
+![Image](https://github.com/user-attachments/assets/cdbe41d1-5d46-457f-a988-9b5b82d046ba)
